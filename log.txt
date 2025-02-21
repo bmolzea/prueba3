@@ -1,0 +1,34 @@
+commit e8c8e4026c10c1660d20ad68320320b97cd74c3e
+Author: Borjoide <bmolzea722@g.educaand.es>
+Date:   Wed Feb 19 19:50:00 2025 +0100
+
+    segundo ordenador
+
+commit 6b6f2e3683d5251e320a597bd053f0728fa7a71b
+Author: Borjoide <bmolzea722@g.educaand.es>
+Date:   Wed Feb 19 19:44:51 2025 +0100
+
+    a
+
+commit 484386fc42c488711367c000a707fc01ec98d187
+Author: Borjoide <bmolzea722@g.educaand.es>
+Date:   Wed Feb 19 19:20:46 2025 +0100
+
+    fdshfs`d+f
+    dsd
+    af
+    ds
+    f
+    sd
+    fd
+    saf
+    sa
+    f
+    sdf
+    sd
+
+commit 60b654e4c8201deb246df60ae675735c4dba3f1b
+Author: Borjoide <bmolzea722@g.educaand.es>
+Date:   Wed Feb 19 19:15:54 2025 +0100
+
+    Primer commit
